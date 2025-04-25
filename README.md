@@ -74,9 +74,6 @@ Run the test suite:
 pytest
 ```
 
-## License
-
-MIT License
 
 ## Contributing
 
